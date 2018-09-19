@@ -14,13 +14,13 @@ This deliverable defines the main aspects requested by the tag it smart consorti
 * Some ecosystem/exploitation directions so we can also help you in that part.
 
 | Call Identifier: | TagItSmart!02 call |
-| --- | --- | --- | --- |
+| :--- | :--- |
 | Proposal full name: | Circular economy for electronics reuse |
 | Proposal acronym: | eReuse |
 | Project URL | http://www.ereuse.org |
 
 | Grant Agreement number: | 688061 |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Project acronym: | TagItSmart! |
 | Project title: | Smart Tags driven service platform for enabling ecosystems of connected objects |
 | Project website address: | ​[http://tagitsmart.eu/](http://tagitsmart.eu/)​ |
@@ -28,7 +28,7 @@ This deliverable defines the main aspects requested by the tag it smart consorti
 | Duration: | 36 Months |
 
 | Editor: | Xavier Bustamante                                                                                                                      |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | Deliverable nature | Report \(R\) |
 | Dissemination level: | Public \(PU\) |
 | Delivery Date | 4-2018 |

@@ -22,7 +22,7 @@ Internet of Things and Platforms for Connected Smart Objects
 | Date of submission: | 1/11/2017 |
 
 | Grant Agreement number: | 688061 |
-| --- | --- |
+| :--- | :--- |
 | Project acronym: | TagItSmart! |
 | Project title: | Smart Tags driven service platform for enabling ecosystems of connected objects |
 | Project website address: | [http://tagitsmart.eu/](http://tagitsmart.eu/) |
